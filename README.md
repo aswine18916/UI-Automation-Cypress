@@ -1,1 +1,1 @@
-# Bynder
+# UI Tests Cypress
